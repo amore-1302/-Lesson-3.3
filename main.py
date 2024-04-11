@@ -1,1 +1,9 @@
-print("111 222")
+import pygame
+
+pygame.init()
+
+running = True
+while running:
+    pass
+
+pygame.quit()
